@@ -49,7 +49,7 @@ describe('The Home Page', function() {
 
     it('should produce the correct HTML', function() {
       homePage.render();
-      expect(homePage.$el).toContainText('Hello all!');
+      expect(homePage.$el).toContainText('Hello everyone!');
     });
 
     it('returns the view object', function() {
