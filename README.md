@@ -1,4 +1,4 @@
-# LevelUp Watch Edition App Development Environment
+## LevelUp Watch Edition App Development Environment
 # lolool:wq
 [![Build Status](https://snap-ci.com/twlevelup/watch_edition/branch/master/build_image)](https://snap-ci.com/twlevelup/watch_edition_test/branch/master)
 
